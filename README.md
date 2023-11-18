@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=Hi%20there👋-nl-🐢🐢🐢&fontColor=00ff00&fontAlign=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=Hi%20there👋-nl-🐢🐢🐢&fontColor=00ff00&fontAlign=20&fontSize=30)
 ![header](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1EF75D&random=false&width=435&lines=Welcome+to+Jin's+Github)
