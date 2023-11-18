@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=Hi%20there👋-nl-🐢🐢🐢&fontColor=00ff00&fontAlign=20&fontSize=50)
 ![header](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1EF75D&random=false&width=435&lines=Welcome+to+Jin's+Github)
 
-[![Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=FullStackJinnnn&show_icons=true&theme=mercoa&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=FullStackJinnnn&show_icons=true&theme=merco&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
